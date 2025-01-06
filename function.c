@@ -8,9 +8,7 @@ void menuFirstly(){
 	printf("\t        Menu\n ");
 	printf("\t======================\n");
 	printf("\t[1].Quan li danh muc.\n");
-	printf("\t[2].Quan li danh sach.\n");
-	printf("\t[3].Admin.\n");
-	printf("\t[4].Thoat chuong trinh .\n");
+	printf("\t[0].Thoat chuong trinh .\n");
 }
 
 

@@ -103,6 +103,6 @@ int main(int argc, char *argv[]) {
 			default:
 				printf("thoat chuong trinh.\n");
 		}
-	}while(answer!=4);
+	}while(answer!=0);
 	return 0;
 }
